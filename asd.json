@@ -1,0 +1,72 @@
+[
+ {
+  "Column1": "KINALI11",
+  "KINALI": 40,
+  "SİLİVRİ": 10,
+  "ÇATALCA": 25,
+  "NAKKAŞ": 30,
+  "YASSIÖREN": 35,
+  "TAYAKADIN": 40,
+  "FATİH": 40
+ },
+ {
+  "Column1": "SİLİVRİ (G12)",
+  "KINALI": 15,
+  "SİLİVRİ": 35,
+  "ÇATALCA": 15,
+  "NAKKAŞ": 20,
+  "YASSIÖREN": 25,
+  "TAYAKADIN": 30,
+  "FATİH": 35
+ },
+ {
+  "Column1": "ÇATALCA (G13)",
+  "KINALI": 25,
+  "SİLİVRİ": 20,
+  "ÇATALCA": 25,
+  "NAKKAŞ": 10,
+  "YASSIÖREN": 15,
+  "TAYAKADIN": 20,
+  "FATİH": 25
+ },
+ {
+  "Column1": "NAKKAŞ (G14)",
+  "KINALI": 30,
+  "SİLİVRİ": 20,
+  "ÇATALCA": 10,
+  "NAKKAŞ": 30,
+  "YASSIÖREN": 10,
+  "TAYAKADIN": 15,
+  "FATİH": 20
+ },
+ {
+  "Column1": "YASSIÖREN (G21)",
+  "KINALI": 35,
+  "SİLİVRİ": 25,
+  "ÇATALCA": 15,
+  "NAKKAŞ": 10,
+  "YASSIÖREN": 35,
+  "TAYAKADIN": 10,
+  "FATİH": 15
+ },
+ {
+  "Column1": "TAYAKADIN (G22)",
+  "KINALI": 40,
+  "SİLİVRİ": 30,
+  "ÇATALCA": 20,
+  "NAKKAŞ": 15,
+  "YASSIÖREN": 10,
+  "TAYAKADIN": 40,
+  "FATİH": 10
+ },
+ {
+  "Column1": "FATİH (G23)",
+  "KINALI": 40,
+  "SİLİVRİ": 35,
+  "ÇATALCA": 25,
+  "NAKKAŞ": 20,
+  "YASSIÖREN": 15,
+  "TAYAKADIN": 10,
+  "FATİH": 40
+ }
+]
